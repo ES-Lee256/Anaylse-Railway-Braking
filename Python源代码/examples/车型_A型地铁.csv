@@ -1,0 +1,4 @@
+name,mass_kg,initial_speed_kmh,braking_ratio,response_time_s,grade_permille,basic_resistance_coefficient,rotating_mass_factor,adhesion_coefficient
+A型地铁_常规区间,42000,90,0.11,0.9,0,0.0025,0.08,0.28
+A型地铁_高架上坡,42000,85,0.12,1.0,12,0.0025,0.08,0.29
+A型地铁_下坡进站,42000,90,0.12,0.9,-15,0.0025,0.08,0.28

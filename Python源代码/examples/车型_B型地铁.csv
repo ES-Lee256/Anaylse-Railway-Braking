@@ -1,0 +1,4 @@
+name,mass_kg,initial_speed_kmh,braking_ratio,response_time_s,grade_permille,basic_resistance_coefficient,rotating_mass_factor,adhesion_coefficient
+B型地铁_站间制动,35000,80,0.10,0.8,0,0.0025,0.08,0.28
+B型地铁_短站距,35000,65,0.12,0.7,5,0.0025,0.08,0.28
+B型地铁_地下坡道,35000,75,0.11,0.8,-18,0.0025,0.08,0.27

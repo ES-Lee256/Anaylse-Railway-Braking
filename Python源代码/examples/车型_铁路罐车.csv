@@ -1,0 +1,4 @@
+name,mass_kg,initial_speed_kmh,braking_ratio,response_time_s,grade_permille,basic_resistance_coefficient,rotating_mass_factor,adhesion_coefficient
+铁路罐车_满载,90000,80,0.11,2.1,0,0.003,0.09,0.29
+铁路罐车_空载,35000,90,0.10,1.8,0,0.003,0.09,0.28
+铁路罐车_长下坡,90000,65,0.11,2.1,-15,0.003,0.09,0.29

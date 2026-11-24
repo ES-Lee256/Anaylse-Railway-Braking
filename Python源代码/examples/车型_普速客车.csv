@@ -1,0 +1,4 @@
+name,mass_kg,initial_speed_kmh,braking_ratio,response_time_s,grade_permille,basic_resistance_coefficient,rotating_mass_factor,adhesion_coefficient
+普速客车_平直线路,48000,100,0.10,1.5,0,0.002,0.07,0.25
+普速客车_区间高速,48000,120,0.12,1.7,6,0.002,0.07,0.26
+普速客车_长下坡,48000,90,0.10,1.5,-14,0.002,0.07,0.25

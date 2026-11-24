@@ -1,0 +1,13 @@
+Dataset: Bearing Vibration Data under Time-varying Rotational Speed Conditions
+DOI: https://doi.org/10.17632/v43hmbwxpm.2
+Authors: Huan Huang; Natalie Baddour
+Institution: University of Ottawa
+Source: https://data.mendeley.com/datasets/v43hmbwxpm/2
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+License URL: https://creativecommons.org/licenses/by/4.0/
+
+This project includes 15 selected raw MATLAB files from the dataset:
+H-A-1/2/3, I-A-1/2/3, O-A-1/2/3, B-A-1/2/3, and C-A-1/2/3.
+They cover increasing rotational speed trials for five bearing conditions.
+The files are unmodified. The software's preprocessing and derived model are
+changes made for educational use; the dataset authors do not endorse this use.

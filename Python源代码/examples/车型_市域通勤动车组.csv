@@ -1,0 +1,4 @@
+name,mass_kg,initial_speed_kmh,braking_ratio,response_time_s,grade_permille,basic_resistance_coefficient,rotating_mass_factor,adhesion_coefficient
+市域动车组_市域常规,52000,120,0.12,1.0,0,0.0022,0.07,0.30
+市域动车组_快速区间,52000,160,0.14,1.1,5,0.0022,0.07,0.31
+市域动车组_市域下坡,52000,130,0.12,1.0,-10,0.0022,0.07,0.30
